@@ -1,5 +1,5 @@
 # little psa
-> just so u know ik this is very niche but the only sites you can download this app on is itch.io, sourceforge, or the github page
+> just so u know ik this is very niche but the only sites you can download this app on is [itch.io](https://kokostudios.itch.io/window-size-previewer), [sourceforge](https://sourceforge.net/projects/wsp/), or this github page
 > anyways, heres the description lol
 
 # WSP (Window Size Previewer)
