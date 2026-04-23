@@ -28,9 +28,7 @@ namespace WSP_by_Koko_Studios
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("WSP by Koko Studios\nv1.0.0", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("WSP by Koko Studios\nv1.0.1", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
-
-
     }
 }

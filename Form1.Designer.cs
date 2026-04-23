@@ -44,9 +44,9 @@
             this.label1.Font = new System.Drawing.Font("Open Sans", 12F);
             this.label1.Location = new System.Drawing.Point(2, 11);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(88, 22);
+            this.label1.Size = new System.Drawing.Size(59, 22);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Window X:";
+            this.label1.Text = "Width:";
             // 
             // label2
             // 
@@ -54,15 +54,15 @@
             this.label2.Font = new System.Drawing.Font("Open Sans", 12F);
             this.label2.Location = new System.Drawing.Point(2, 42);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 22);
+            this.label2.Size = new System.Drawing.Size(64, 22);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Window Y:";
+            this.label2.Text = "Height:";
             // 
             // numericUpDown1
             // 
             this.numericUpDown1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.numericUpDown1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.numericUpDown1.Location = new System.Drawing.Point(95, 13);
+            this.numericUpDown1.Location = new System.Drawing.Point(67, 15);
             this.numericUpDown1.Maximum = new decimal(new int[] {
             9999999,
             0,
@@ -74,7 +74,7 @@
             0,
             0});
             this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(126, 20);
+            this.numericUpDown1.Size = new System.Drawing.Size(154, 20);
             this.numericUpDown1.TabIndex = 5;
             this.numericUpDown1.Value = new decimal(new int[] {
             243,
@@ -87,7 +87,7 @@
             // 
             this.numericUpDown2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.numericUpDown2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.numericUpDown2.Location = new System.Drawing.Point(95, 44);
+            this.numericUpDown2.Location = new System.Drawing.Point(67, 46);
             this.numericUpDown2.Maximum = new decimal(new int[] {
             9999999,
             0,
@@ -99,7 +99,7 @@
             0,
             0});
             this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(126, 20);
+            this.numericUpDown2.Size = new System.Drawing.Size(154, 20);
             this.numericUpDown2.TabIndex = 6;
             this.numericUpDown2.Value = new decimal(new int[] {
             164,
@@ -119,7 +119,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(215, 41);
             this.button1.TabIndex = 7;
-            this.button1.Text = "About";
+            this.button1.Text = "About WSP";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
