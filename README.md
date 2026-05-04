@@ -1,6 +1,5 @@
-# little psa
-> just so u know ik this is very niche but the only sites you can download this app on is [itch.io](https://kokostudios.itch.io/window-size-previewer), [sourceforge](https://sourceforge.net/projects/wsp/), or this github page
-> anyways, heres the description lol
+# Farewell
+> Since this product is complete and stable, this product will no longer receive any updates nor support from Koko Studios.
 
 # WSP (Window Size Previewer)
 WSP (short for Window Size Previewer) is an app that allows you to preview different resolutions.
